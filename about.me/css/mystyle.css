@@ -1,0 +1,15 @@
+body,html{
+    background-color: coral
+}
+
+p {
+    color: white
+}
+
+.aquacopy{
+    color: aqua
+}
+
+#content-wrapper{
+width: 600px;
+}
